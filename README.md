@@ -25,6 +25,7 @@ In addition to these ways to declare variables, there are also several data type
 4) string: This is used to represent a sequence of characters, such as a word or a phrase. Strings are denoted by<br>
 enclosing the characters in single or double quotes.<br>
 
+
 5) number: This is used to represent numerical values, such as integers or floating-point numbers.<br>
 
 6) boolean: This is used to represent a true or false value.<br>
@@ -44,3 +45,4 @@ form of arguments, and they can return a value when they are executed.<br>
   
   
  </details>
+ <hr>
